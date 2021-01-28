@@ -1,3 +1,7 @@
+# Unreleased
+
+- Disable `Naming/VariableNumbers`
+
 # 3.17.2
 
 - Rename Blacklist to ForbiddenMethods to fix rubocop-rails warnings
